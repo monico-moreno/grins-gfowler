@@ -9,3 +9,12 @@
 1. Create a PR for it
 1. After approval, merge it into main branch.
 1. other steps TBD
+
+
+## Other Steps
+1. Create feature branch (e.g. `feature-show-lead`)
+1. Add component to display lead info (single lead for MVP):
+   1. applicant name,
+   1. lead id
+1. A quick unit test
+1. Commit & push feature branch & create PR
